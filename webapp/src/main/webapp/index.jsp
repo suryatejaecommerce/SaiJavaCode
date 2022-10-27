@@ -1,4 +1,3 @@
-<h1> Hello Dear Students !! Welcome to DevOps Project-2 !! </h1>
-<h2> By Mr.Sai from Saidemy </h2>
-<h3> Added to code by shravan </h3>
+n<h1> Hello everyne </h1>
+<h2> This project demonstartes simple war file deployment to Tomcat using Git as SCM and Maven as build tool and Jenkins for CI/CD </h2>
 
